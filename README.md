@@ -2,7 +2,7 @@
 ## ⌛ Status
     ✅ Finished 🎉
 ## 📄 About the Project
-    This project was developed to accompany the counting of votes for the 2022 Election - 1st Shift and 2scd Shift 
+    This project was developed to accompany the counting of votes for the 2022 Election - 1st Shift and 2nd Shift 
 ## 📊 Applications and Features
 - Data analysis
 - Data search
