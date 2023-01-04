@@ -17,5 +17,4 @@
 - Excel
   - Dashboard
 
-Project video link:
-https://www.linkedin.com/posts/luis-fernando-m-bezerra-37b175b0_eleiaexaeto2022-election2022-python-activity-6982486113776996352-ul-5?utm_source=share&utm_medium=member_desktop
+<a href="https://www.linkedin.com/posts/luis-fernando-m-bezerra-37b175b0_eleiaexaeto2022-election2022-python-activity-6982486113776996352-ul-5?utm_source=share&utm_medium=member_desktop">🖱️Project video link - Click Here and access!</a>
