@@ -8,7 +8,10 @@
 - Data search
 - Interaction of tools (Python and Excel)
 ## 💻 The Project Working
+First Shift
 ![eleições2022](https://user-images.githubusercontent.com/91624923/193481962-382119db-d9da-4d8e-b12d-86d8892625b8.png)
+Second Shift
+![image](https://user-images.githubusercontent.com/91624923/210608827-a1918e15-eb30-417f-abc2-fffa216a31da.png)
 
 ## ⚙ Technologies Used
 - Python
